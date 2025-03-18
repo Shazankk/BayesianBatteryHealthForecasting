@@ -96,8 +96,6 @@ The model is trained on time-series battery degradation data, which includes:- I
 
 ## Methodology
 
-degradation mechanisms
-
 ### Bayesian Framework
 
 3. **Posterior Distribution**: Updated beliefs about battery health parameters
@@ -119,7 +117,7 @@ degradation mechanisms
 
 ## Installation and Setupcd Bayesian_Battery_Health_Prediction_And_Lifetime_Forecasting
 
-````bashvironment (optional but recommended)
+````bash evironment (optional but recommended)
 # Clone the repository
 git clone https://github.com/username/Bayesian_Battery_Health_Prediction_And_Lifetime_Forecasting.gitsource venv/bin/activate  # On Windows use: venv\Scripts\activate
 cd Bayesian_Battery_Health_Prediction_And_Lifetime_Forecasting
@@ -170,7 +168,7 @@ Kaggle dataset and notebook link can be accessed from:
 
 https://www.kaggle.com/code/shagodg/ev-car-charging-eda-and-questionaire
 
-## Conclusions and Future Worke updates
+## Conclusions and Future Work updates
 
 The Bayesian framework successfully captures the uncertainty in battery health prediction, providing more reliable forecasts for battery end-of-life. Future work will focus on:4. Optimizing computational efficiency for edge deployment
 
