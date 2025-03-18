@@ -1,0 +1,29 @@
+# TensorFlow packages
+tensorflow-macos==2.16.2
+tensorflow-metal==1.1.0
+tf-keras==2.16.0
+tensorflow-probability[tf]==0.24.0
+
+# Data processing and visualization
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+seaborn
+matplotlib
+
+# Machine learning tools
+optuna
+shap
+imblearn
+
+# Utilities
+pickle5
+memory-profiler
+python-dotenv
+
+# External data sources
+datasets
+transformers
+kagglehub
